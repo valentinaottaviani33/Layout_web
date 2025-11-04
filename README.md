@@ -7,6 +7,7 @@ Sito sviluppato con la classe FullstackDev
 ![Screenshot dell app](./images/screenshot1.png)
 ![Screenshot dell app](./images/screenshot2.png)
 ![Screenshot dell app](./images/screenshot3.png)
+![Screenshot dell app](./images/screenshot4.png)
 
 ---
 
