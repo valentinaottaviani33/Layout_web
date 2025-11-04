@@ -1,7 +1,7 @@
 # LAYOUT SITO WEB
 Sito sviluppato con la classe FullstackDev
 
-*Ottobe 2025* 👩🏻‍💻
+*Ottobre 2025* 👩🏻‍💻
 ---
 
 ![Screenshot dell app](./images/screenshot1.png)
