@@ -1,0 +1,7 @@
+All interno della pagina Services,
+
+Creare 3 CARD inerenti ai servizi disposte una fianco all altra nella sezione Main
+Non voglio piu visualizzare la Sidebar 
+
+Ciascuna CARD dovrà contenere un immagine nella parte superiore,
+un titolo, ed una didascalia nella parte inferiore.
